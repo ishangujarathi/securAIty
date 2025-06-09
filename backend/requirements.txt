@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+
+# ML + data processing
+scikit-learn
+pandas
+numpy
+joblib
+
+# for FastAPI request validation
+pydantic
+
+# to allow file uploads
+python-multipart
